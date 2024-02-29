@@ -37,7 +37,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashishdeb-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=005480&logoColor=white" alt="Linkedin" /></a>&nbsp; 
-<a href="https://twitter.com/debbbzz_tw" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp; 
+<a href="https://twitter.com/debbbzz_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp; 
+<a href="https://instagram.com/hehe.ashish" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
 <hr>
@@ -51,9 +52,9 @@
 <td><h4>Programming Languages</h4></td>
 <td>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=262626"/>&nbsp;  
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=262626&color=00599C" />&nbsp; 
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=262626&color=00599C"/>&nbsp; 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=262626&color=3776ab" />&nbsp;   
-<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=262626&color=DFA200" /></td></tr>
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=262626&color=DFA200"/></td></tr>
 
 <tr>
 <td><h4>Web Development</h4></td>
