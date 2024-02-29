@@ -14,9 +14,8 @@
  ```python
  
   class Intro:
-    user = 'Ashish Deb'
-    currently_learning = "React JS"
-    portfolio = "coming soon"
+    user = "Ashish Deb"
+    portfolio = "https://webdevashish.vercel.app"
 	hobbies = [
                   'Coding'
                   'Gaming'
@@ -101,7 +100,4 @@
     </td>
   </tr> 
 </table>
-	
-<hr>
-<h3 align="center">👌Support:</h3>
-<p align="center" ><a href=""> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Button to buy me a coffee" /></a></p>
+
